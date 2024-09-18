@@ -1,16 +1,15 @@
-## Hi there 👋
+# About me
 
-<!--
-**odhonon/odhonon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I’m Adnan, a certified data analyst with expertise in data analysis and a background in pharmacy. 
+I enjoy using data to solve real-world problems, especially in the medical and pharmaceutical industries. Here's a bit more about me:
 
-Here are some ideas to get you started:
+- 🔬 **Interests**: Data analytics, Pharmaceutics, and Business Intelligence.
+- 🛠️ **Skills**: Excel, SQL, Python, Power BI, Data Visualization, Statistical Analysis, Problem-solving.
+- 🎓 **Education**: Certified Pharmacist, pursuing a Master's in Pharmacy (Pharmaceutics) from HNB Garhwal University.
+- 💼 **Projects**: Completed a comprehensive dashboard for ShopNest, analyzed Swiggy's performance data, and more.
+- 🌱 **Currently Learning**: Advanced Power BI techniques and exploring applications of AI in pharmaceutical research.
+- 📊 **Fun fact**: I have a unique blend of pharmacy and data analytics skills, making me a bridge between healthcare and data-driven insights!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my projects and connect!
+
+
