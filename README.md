@@ -6,7 +6,7 @@ I enjoy using data to solve real-world problems, especially in the medical and p
 - 🔬 **Interests**: Data analytics, Pharmaceutics, and Business Intelligence.
 - 🛠️ **Skills**: Excel, SQL, Python, Power BI, Data Visualization, Statistical Analysis, Problem-solving.
 - 🎓 **Education**: Certified Pharmacist, pursuing a Master's in Pharmacy (Pharmaceutics) from HNB Garhwal University.
-- 💼 **Projects**: Completed a comprehensive dashboard for ShopNest, analyzed Swiggy's performance data, and more.
+- 💼 **Projects**: Completed a comprehensive dashboard for ShopNest, analyzed food delivery app's performance data, and more.
 - 🌱 **Currently Learning**: Advanced Power BI techniques and exploring applications of AI in pharmaceutical research.
 - 📊 **Fun fact**: I have a unique blend of pharmacy and data analytics skills, making me a bridge between healthcare and data-driven insights!
 
